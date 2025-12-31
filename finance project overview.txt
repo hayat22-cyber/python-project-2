@@ -1,0 +1,35 @@
+Project Overview
+This project analyzes stock data to track trends, calculate daily returns, and visualize performance of multiple stocks.
+
+
+
+
+Dataset Description
+Columns:
+Date: Date of record
+Stock: Stock symbol
+Open, High, Low, Close: Prices
+Volume: Number of shares traded
+Return: Daily return %
+
+
+
+Key Insights
+Stock trends show ABC and XYZ price movements over 3 days.
+Daily returns vary; some days are more volatile.
+Volume impacts stock price movements slightly.
+
+
+
+
+
+Recommendations
+Monitor stocks with higher volatility carefully.
+Compare historical returns before investing.
+Use trends for short-term trading decisions.
+
+
+
+
+Conclusion
+Python data analysis provides clear visualization and metrics for better decision-making in finance.
