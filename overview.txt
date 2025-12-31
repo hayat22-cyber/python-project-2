@@ -1,0 +1,72 @@
+This project analyzes supermarket sales data to understand product performance, category-wise sales distribution, and customer purchasing patterns. The objective is to derive meaningful business insights using data cleaning and analysis techniques in Python
+
+
+
+The dataset contains sales records with the following fields:
+
+Date
+Product
+Category
+Quantity
+Sales
+CustomerID
+
+The data was cleaned by removing duplicates, standardizing column names, and converting date fields to proper datetime format.
+
+
+
+Key Insights
+
+ Category Performance
+
+Electronics category generates the highest revenue.
+
+Groceries have frequent sales but lower revenue per transaction.
+
+ -Product Analysis
+
+High-value items like Laptop and TV contribute significantly to total sales.
+
+Low-priced grocery items sell in higher quantities.
+
+ -Sales Trend
+
+Sales are consistent across days with spikes driven by high-value electronics purchases.
+
+
+
+
+
+
+
+Business Insights
+
+Electronics products drive maximum revenue and should be prioritized.
+
+Groceries ensure customer footfall and repeat visits.
+
+Premium products have lower quantity but higher profit impact.
+
+
+
+
+
+
+
+
+
+
+
+Recommendations
+Increase stock of high-revenue electronics products.
+Run combo offers on groceries to increase basket value.
+Introduce discounts on electronics during peak days.
+Use customer purchase history for targeted promotions.
+
+
+
+
+
+Conclusion
+
+The analysis provides actionable insights that can help improve inventory management, sales strategy, and customer targeting. Data-driven decision-making can significantly enhance supermarket profitability.
