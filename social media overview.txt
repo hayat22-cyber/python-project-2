@@ -1,0 +1,32 @@
+Project Overview
+
+This project analyzes social media engagement data across multiple platforms to understand which platforms and content types generate the highest engagement.
+
+
+
+
+
+
+Key Insights
+Instagram Reels receive the highest engagement.
+Image and video posts perform better than text posts.
+Higher comments strongly relate to higher likes.
+
+Business Insights
+Visual content drives more engagement
+Reels and videos should be prioritized
+Engagement metrics move together (likes, comments, shares).
+
+Recommendations
+Focus on short-form video content.
+Increase posting frequency on Instagram.
+Encourage comments to boost reach and visibility.
+
+
+
+
+
+
+
+Conclusion
+Social media performance improves significantly with visual and interactive content. Data-driven content strategy can increase engagement and reach.

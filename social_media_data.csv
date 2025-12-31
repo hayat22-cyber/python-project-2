@@ -1,0 +1,11 @@
+PostID,Platform,PostType,Likes,Comments,Shares,Reach
+1,Instagram,Image,1200,140,30,15000
+2,Instagram,Reel,3400,520,210,55000
+3,Instagram,Story,800,60,10,9000
+4,Twitter,Text,600,90,40,12000
+5,Twitter,Image,950,120,60,18000
+6,Facebook,Video,2200,300,150,42000
+7,Facebook,Image,1700,200,90,28000
+8,LinkedIn,Text,400,50,20,8000
+9,LinkedIn,Image,900,110,45,16000
+10,Instagram,Reel,4100,610,260,62000
